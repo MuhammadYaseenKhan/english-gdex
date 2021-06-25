@@ -1,1 +1,1 @@
-Dataset for english Good Dictionary Exmaples.
+A smaple dataset for english Good Dictionary Exmaples.
